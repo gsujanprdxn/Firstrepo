@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.container{
+   background-color: red;
+   width: 800px;
+   margin: 5px auto;
+   height: 680px;
+
+}
+h3{
+    font-family: 'Alfa Slab One', cursive;
+    letter-spacing: 2px;
+    text-transform: uppercase; 
+    color: white;
+    font-size: 40px;
+    margin-top: 58px;
+
+}
+
+img{
+    width: 375px;
+
+}
+.box{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+}
